@@ -1,0 +1,7 @@
+01Atenção Básica (PAB)                                                                                201902
+02Assistência Farmacêutica                                                                            201902
+04Fundo de Ações Estratégicas e Compensações (FAEC)                                                   201902
+05Incentivo - MAC                                                                                     201902
+06Média e Alta Complexidade (MAC)                                                                     201902
+07Vigilância em Saúde                                                                                 201902
+08Gestão do SUS                                                                                       201902
